@@ -12,6 +12,8 @@ os
 ?json
 :=
 
+re
+
 (pip)numpy 
 copy() deepcopy()
 max & maximum
@@ -25,6 +27,6 @@ new axis
 cython
 ?(pip) pillow
 ?(pip)opencv
-
+? colab & pytorch
 
 a : int = 4
