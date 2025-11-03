@@ -1,0 +1,30 @@
+sort
+reverse
+zip
+enumerate
+lambda
+cython
+? class
+@cache
+timeit
+pickle
+os
+?json
+:=
+
+(pip)numpy 
+copy() deepcopy()
+max & maximum
+numpy block& concatenate
+new axis
+
+
+(pip) tqdm
+(pip) sklearn (linear reg)
+(pip) scipy
+cython
+?(pip) pillow
+?(pip)opencv
+
+
+a : int = 4
