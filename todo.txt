@@ -1,8 +1,8 @@
-sort
-reverse
-zip
-enumerate
-lambda
+sort (o)
+reverse (o)
+zip (o)
+enumerate (o)
+lambda ()
 cython
 ? class
 @cache
