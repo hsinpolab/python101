@@ -16,7 +16,7 @@ monad
 
 re
 
-(pip)numpy 
+(pip)numpy  (o)
 copy() deepcopy()
 max & maximum
 numpy block& concatenate
