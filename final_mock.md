@@ -49,7 +49,7 @@ $$You are also given $S(5)=10396$.
 
 Find $S(50)$, giving your answer modulo $1123581313$.
 
-# [a]()
+# [Powers or $1+\sqrt 7$](https://projecteuler.net/problem=752)
 
 When $(1+\sqrt 7)$ is raised to an integral power, $n$, we always get a number of the form $(a+b\sqrt 7)$.
 We write $(1+\sqrt 7)^n = \alpha(n) + \beta(n)\sqrt 7$.
